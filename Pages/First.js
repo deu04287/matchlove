@@ -6,7 +6,7 @@ export default function First() {
 
       return (
         <View>
-            <Text>falsesdfsdf</Text>
+            <Text>falsesdfssdfsdfsdfsdfdf</Text>
         </View>
       );
   }
